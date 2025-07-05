@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sokolove-Olexii/React.git/static/css/main.f855e6bc.css",
+    "main.js": "/Sokolove-Olexii/React.git/static/js/main.5685604f.js",
+    "static/js/453.96453769.chunk.js": "/Sokolove-Olexii/React.git/static/js/453.96453769.chunk.js",
+    "index.html": "/Sokolove-Olexii/React.git/index.html",
+    "main.f855e6bc.css.map": "/Sokolove-Olexii/React.git/static/css/main.f855e6bc.css.map",
+    "main.5685604f.js.map": "/Sokolove-Olexii/React.git/static/js/main.5685604f.js.map",
+    "453.96453769.chunk.js.map": "/Sokolove-Olexii/React.git/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5685604f.js"
+  ]
+}
