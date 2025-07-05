@@ -37,8 +37,8 @@ function App() {
       </p>
 
       <ul>
-        {colors.map((color, index) => (
-          <li key={index}>{color}</li>
+        {colors.map((color) => (
+          <li>{color}</li>
         ))}
       </ul>
     </div>
